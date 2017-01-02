@@ -1,0 +1,295 @@
+#EXTM3U
+#EXTINF:-1,(1) Das Erste
+
+rtp://@239.35.10.4:10000
+#EXTINF:-1,(2) ZDF
+
+rtp://@239.35.10.5:10000
+#EXTINF:-1,(3) RTL
+
+rtp://@239.35.20.10:10000
+#EXTINF:-1,(4) Sat.1
+
+rtp://@239.35.20.20:10000
+#EXTINF:-1,(5) ProSieben
+
+rtp://@239.35.20.21:10000
+#EXTINF:-1,(6) VOX
+
+rtp://@239.35.20.11:10000
+#EXTINF:-1,(7) Kabel 1
+
+rtp://@239.35.20.38:10000
+#EXTINF:-1,(8) RTL II
+
+rtp://@239.35.20.22:10000
+#EXTINF:-1,(9) Super RTL
+
+rtp://@239.35.20.39:10000
+#EXTINF:-1,(10) KiKA
+
+rtp://@239.35.10.19:10000
+#EXTINF:-1,(12) 3sat
+
+rtp://@239.35.10.6:10000
+#EXTINF:-1,(14) n-tv
+
+rtp://@239.35.20.47:10000
+#EXTINF:-1,(15) PHOENIX
+
+rtp://@239.35.10.22:10000
+#EXTINF:-1,(17) zdf_neo
+
+rtp://@239.35.10.27:10000
+#EXTINF:-1,(21) BR Süd
+
+rtp://@239.35.10.7:10000
+#EXTINF:-1,(25) hr
+
+rtp://@239.35.10.8:10000
+#EXTINF:-1,(27) MDR Sachsen
+
+rtp://@239.35.10.9:10000
+#EXTINF:-1,(29) NDR
+
+rtp://@239.35.10.10:10000
+#EXTINF:-1,(30) Radio Bremen TV
+
+rtp://@239.35.10.12:10000
+#EXTINF:-1,(31) rbb Berlin
+
+rtp://@239.35.10.14:10000
+#EXTINF:-1,(36) SR
+
+rtp://@239.35.10.15:10000
+#EXTINF:-1,(37) SWR BW
+
+rtp://@239.35.10.16:10000
+#EXTINF:-1,(38) SWR RP
+
+rtp://@239.35.10.17:10000
+#EXTINF:-1,(39) WDR
+
+rtp://@239.35.10.18:10000
+#EXTINF:-1,(55) ARTE
+
+rtp://@239.35.10.20:10000
+#EXTINF:-1,(56) ONE
+
+rtp://@239.35.10.21:10000
+#EXTINF:-1,(69) sixx
+
+rtp://@239.35.20.9:10000
+#EXTINF:-1,(72) RTLNITRO
+
+rtp://@239.35.20.59:10000
+#EXTINF:-1,(73) RTLplus
+
+rtp://@239.35.20.57:10000
+#EXTINF:-1,(74) Sat.1 Gold
+
+rtp://@239.35.20.24:10000
+#EXTINF:-1,(75) ProSieben MAXX
+
+rtp://@239.35.20.33:10000
+#EXTINF:-1,(82) ARD-alpha
+
+rtp://@239.35.10.24:10000
+#EXTINF:-1,(84) DW
+
+rtp://@239.35.20.44:10000
+#EXTINF:-1,(85) Tagesschau24
+
+rtp://@239.35.10.25:10000
+#EXTINF:-1,(89) kabel eins Doku
+
+rtp://@239.35.20.67:10000
+#EXTINF:-1,(92) ZDFinfo
+
+rtp://@239.35.10.28:10000
+#EXTINF:-1,(140) BR Nord
+
+rtp://@239.35.10.13:10000
+#EXTINF:-1,(141) MDR S-Anhalt
+
+rtp://@239.35.10.29:10000
+#EXTINF:-1,(142) MDR Thüringen
+
+rtp://@239.35.10.30:10000
+#EXTINF:-1,(143) NDR Hamburg
+
+rtp://@239.35.10.31:10000
+#EXTINF:-1,(144) NDR Meckl.-Vorpommer
+
+rtp://@239.35.10.32:10000
+#EXTINF:-1,(145) NDR Schleswig-Holste
+
+rtp://@239.35.10.33:10000
+#EXTINF:-1,(146) rbb Brandenburg
+
+rtp://@239.35.10.34:10000
+#EXTINF:-1,(147) RTL NRW
+
+rtp://@239.35.20.5:10000
+#EXTINF:-1,(148) RTL HB NDS
+
+rtp://@239.35.20.6:10000
+#EXTINF:-1,(149) Sat.1 Bayern
+
+rtp://@239.35.20.8:10000
+#EXTINF:-1,(150) Sat.1 HH SH
+
+rtp://@239.35.20.12:10000
+#EXTINF:-1,(151) Sat.1 NDS Bremen
+
+rtp://@239.35.20.13:10000
+#EXTINF:-1,(152) Sat.1 NRW
+
+rtp://@239.35.20.14:10000
+#EXTINF:-1,(153) Sat.1 RhlPf Hessen
+
+rtp://@239.35.20.15:10000
+#EXTINF:-1,(154) WDR Aachen
+
+rtp://@239.35.10.35:10000
+#EXTINF:-1,(155) WDR Bielefeld
+
+rtp://@239.35.10.36:10000
+#EXTINF:-1,(156) WDR Bonn
+
+rtp://@239.35.10.37:10000
+#EXTINF:-1,(157) WDR Dortmund
+
+rtp://@239.35.10.38:10000
+#EXTINF:-1,(158) WDR Duisburg
+
+rtp://@239.35.10.39:10000
+#EXTINF:-1,(159) WDR Düsseldorf
+
+rtp://@239.35.10.40:10000
+#EXTINF:-1,(160) WDR Essen
+
+rtp://@239.35.10.41:10000
+#EXTINF:-1,(161) WDR Münster
+
+rtp://@239.35.10.42:10000
+#EXTINF:-1,(162) WDR Siegen
+
+rtp://@239.35.10.43:10000
+#EXTINF:-1,(163) WDR Wuppertal
+
+rtp://@239.35.10.44:10000
+#EXTINF:-1,(164) RTL HH SH
+
+rtp://@239.35.20.63:10000
+#EXTINF:-1,(165) RTL Hessen
+
+rtp://@239.35.20.64:10000
+#EXTINF:-1,(401) Das Erste HD
+
+rtp://@239.35.10.1:10000
+#EXTINF:-1,(402) ZDF HD
+
+rtp://@239.35.10.2:10000
+#EXTINF:-1,(410) KiKA HD
+
+rtp://@239.35.10.11:10000
+#EXTINF:-1,(412) 3sat HD
+
+rtp://@239.35.10.47:10000
+#EXTINF:-1,(415) PHOENIX HD
+
+rtp://@239.35.10.48:10000
+#EXTINF:-1,(417) zdf_neo HD
+
+rtp://@239.35.10.55:10000
+#EXTINF:-1,(421) BR Süd HD
+
+rtp://@239.35.10.49:10000
+#EXTINF:-1,(425) hr HD
+
+rtp://@239.35.10.60:10000
+#EXTINF:-1,(427) MDR HD
+
+rtp://@239.35.10.61:10000
+#EXTINF:-1,(429) NDR HD
+
+rtp://@239.35.10.50:10000
+#EXTINF:-1,(431) rbb Berlin HD
+
+rtp://@239.35.10.62:10000
+#EXTINF:-1,(436) SR HD
+
+rtp://@239.35.10.64:10000
+#EXTINF:-1,(437) SWR BW HD
+
+rtp://@239.35.10.51:10000
+#EXTINF:-1,(438) SWR RP HD
+
+rtp://@239.35.10.52:10000
+#EXTINF:-1,(439) WDR HD
+
+rtp://@239.35.10.53:10000
+#EXTINF:-1,(455) ARTE HD
+
+rtp://@239.35.10.3:10000
+#EXTINF:-1,(456) ONE HD
+
+rtp://@239.35.10.58:10000
+#EXTINF:-1,(485) tagesschau24 HD
+
+rtp://@239.35.10.63:10000
+#EXTINF:-1,(491) ZDFinfo HD
+
+rtp://@239.35.10.56:10000
+#EXTINF:-1,(2025) a.tv
+
+rtp://@239.35.50.39:10000
+#EXTINF:-1,(2026) allgäu.tv
+
+rtp://@239.35.50.53:10000
+#EXTINF:-1,(2027) Donau TV
+
+rtp://@239.35.50.23:10000
+#EXTINF:-1,(2028) Franken Fernsehen
+
+rtp://@239.35.50.43:10000
+#EXTINF:-1,(2029) intv
+
+rtp://@239.35.50.1:10000
+#EXTINF:-1,(2030) ISAR TV
+
+rtp://@239.35.50.42:10000
+#EXTINF:-1,(2031) main.tv
+
+rtp://@239.35.50.49:10000
+#EXTINF:-1,(2032) münchen.tv
+
+rtp://@239.35.50.6:10000
+#EXTINF:-1,(2033) Oberpfalz TV
+
+rtp://@239.35.50.50:10000
+#EXTINF:-1,(2034) RFO
+
+rtp://@239.35.50.51:10000
+#EXTINF:-1,(2035) TRP1
+
+rtp://@239.35.50.52:10000
+#EXTINF:-1,(2036) TV Oberfranken
+
+rtp://@239.35.50.54:10000
+#EXTINF:-1,(2037) TV touring Schweinft
+
+rtp://@239.35.50.55:10000
+#EXTINF:-1,(2038) TV touring Würzburg
+
+rtp://@239.35.50.56:10000
+#EXTINF:-1,(2039) TVA Ostbayern
+
+rtp://@239.35.50.57:10000
+#EXTINF:-1,(2090) center.tv Düsseldorf
+
+rtp://@239.35.50.7:10000
+#EXTINF:-1,(2104) DRF1
+
+rtp://@239.35.50.15:10000
